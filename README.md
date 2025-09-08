@@ -1,4 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Pádraig
+
+I work across Python and R mostly on climate projects.  
+This page tracks my active and archived repos. 
+
+## 🔧 Active Projects
+| Project | Stack | Summary | Links | Status |
+|---|---|---|---|---|
+| **tmean-grids** | Python | Build daily TMEAN from TX/TN grids; anomaly calc vs 1991–2020 | [Repo](https://github.com/<org>/tmean-grids) • Docs | 🚧 Active
+| **climate-trends-shiny** | R (Shiny) | Interactive anomaly/trend dashboard for IE | [Repo](https://github.com/<org>/climate-trends-shiny) • Demo | ✅ Stable
+| **cron-modernisation** | Python | Replace legacy cron/C/R scripts with orchestrated flows | [Repo](https://github.com/<org>/cron-modernisation) | 🧪 Prototype
+
+## 🗂️ By Theme
+### Climate data / analysis
+- **Irish-Solar-Atlas** — methods & tooling. [Repo](https://github.com/<org>/irish-solar-atlas)
+- **CMIP-downscaling-tools** — helpers for CMIP processing. [Repo](https://github.com/<org>/cmip-downscaling-tools)
+
+### Ops & pipelines
+- **hysplit-ecmwf-bridge** — ERA5 → ARL converter. [Repo](https://github.com/<org>/hysplit-ecmwf-bridge)
+
+## 📝 How I work
+- Python: `uv`/`pip-tools`, black/ruff; R: renv.  
+- Data: NetCDF/Zarr preferred; versioned in DVC or tagged releases.
+
+> **Update routine:** add new rows to the table, keep “Status” emoji up to date, and add links to demos/docs when relevant.
+
+## 🧰 Useful Links
+- Org dashboard | Issues board | Documentation site
 
 <!--
 **padraigflattery/padraigflattery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
