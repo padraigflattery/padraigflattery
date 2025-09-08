@@ -1,13 +1,14 @@
 # 👋 Hi, I’m Pádraig
 
-I work across Python and R mostly on climate projects.  
+I work across Python and R mostly on climate projects. 
+
 This page tracks my active and archived repos. 
 
 ## 🔧 Active Projects
 | Project | Stack | Summary | Links | Status |
 |---|---|---|---|---|
-| **tmean-grids** | Python | Build daily TMEAN from TX/TN grids; anomaly calc vs 1991–2020 | [Repo](https://github.com/<org>/tmean-grids) • Docs | 🚧 Active
-| **climate-trends-shiny** | R (Shiny) | Interactive anomaly/trend dashboard for IE | [Repo](https://github.com/<org>/climate-trends-shiny) • Demo | ✅ Stable
+|**CMIP6 Ireland**| Python | Takes CMIP6 data for Ireland and combines it with historical observations | [Repo](https://github.com/MetEireann/CMIP6_Ireland) | 🚧 Active |
+| **climate-trends-shiny** | R (Shiny) | Interactive anomaly/trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
 | **cron-modernisation** | Python | Replace legacy cron/C/R scripts with orchestrated flows | [Repo](https://github.com/<org>/cron-modernisation) | 🧪 Prototype
 
 ## 🗂️ By Theme
