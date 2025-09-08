@@ -8,7 +8,10 @@ This page tracks my active and archived repos.
 | Project | Stack | Summary | Links | Status |
 |---|---|---|---|---|
 |**CMIP6 Ireland**| Python (Flask) | Takes CMIP6 data for Ireland and combines it with historical observations | [Repo](https://github.com/MetEireann/CMIP6_Ireland) | 🚧 Active |
-| **climate-trends-shiny** | R (Shiny) | Interactive anomaly/trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
+|**Gridding Irish Temperatures**| R | Plots Met Éireann's monthly temperature grids | [Repo](https://github.com/MetEireann/gridded_temperatures) | 🚧 Active |
+|**Temperature Graphs**| Python | Creates interesting graphs of Irish temperatures and also some ERA5 ones too, includes swarmplots, climate pulse recration, monthly barcharts etc.  | [Repo](https://github.com/MetEireann/temperature_graphs) | 🚧 Active |
+| **Climatrend-Ireland** | R (Shiny) | Interactive Temperature anomaly & Loess trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
+|**Trend-Ireland**| R | A basic version of the Climatrend Shiny App which provides the code and functions to create pngs using the KNMI Loess method, not interactive. | [Repo](https://github.com/MetEireann/trend_ireland)| ✅ Stable |
 | **Recompiling old code** | C | Recompiling old C scripts to work with new climate normals | [Repo](https://github.com/MetEireann/past_weather_statements) | ✅ Stable |
 
 
