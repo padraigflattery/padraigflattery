@@ -11,6 +11,7 @@ This page tracks my active and archived repos.
 | **climate-trends-shiny** | R (Shiny) | Interactive anomaly/trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
 | **cron-modernisation** | Python | Replace legacy cron/C/R scripts with orchestrated flows | [Repo](https://github.com/<org>/cron-modernisation) | 🧪 Prototype
 
+<!--
 ## 🗂️ By Theme
 ### Climate data / analysis
 - **Irish-Solar-Atlas** — methods & tooling. [Repo](https://github.com/<org>/irish-solar-atlas)
@@ -28,7 +29,7 @@ This page tracks my active and archived repos.
 ## 🧰 Useful Links
 - Org dashboard | Issues board | Documentation site
 
-<!--
+
 **padraigflattery/padraigflattery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
