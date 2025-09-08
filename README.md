@@ -6,7 +6,7 @@ This page tracks my active and "Stable" repos.
 
 I tend to code using Jupyter Notebooks in Python, and RStudio for R. I'm learning more about Flask and Shiny to make things more interactive. 
 
-I use Jupyter notebooks on the ATOS sometimes and have code stored there too, which should be tracked with git someday. 
+I use [JupyterHub on the ECMWF ATOS](https://jupyterhub.ecmwf.int/) and have code stored there too, which should be tracked with git someday. 
 
 
 ## 🔧 Active Projects
@@ -15,6 +15,7 @@ I use Jupyter notebooks on the ATOS sometimes and have code stored there too, wh
 |**CMIP6 Ireland**| Python (Flask) | Takes CMIP6 data for Ireland and combines it with historical observations | [Repo](https://github.com/MetEireann/CMIP6_Ireland) | 🚧 Active |
 |**Gridding Irish Temperatures**| R | Plots Met Éireann's monthly temperature grids | [Repo](https://github.com/MetEireann/gridded_temperatures) | 🚧 Active |
 |**Temperature Graphs**| Python | Creates interesting graphs of Irish temperatures and also some ERA5 ones too, includes swarmplots, climate pulse recration, monthly barcharts etc.  | [Repo](https://github.com/MetEireann/temperature_graphs) | 🚧 Active |
+|**European Windstorm Catalogue Analysis**| Python | Examining the European Windstorm Atlas to see if there's anything of interest in it | Repo to come | 🔎 Exploratory |
 | **Climatrend-Ireland** | R (Shiny) | Interactive Temperature anomaly & Loess trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
 |**Trend-Ireland**| R | A basic version of the Climatrend Shiny App which provides the code and functions to create pngs using the KNMI Loess method, not interactive. | [Repo](https://github.com/MetEireann/trend_ireland)| ✅ Stable |
 | **Recompiling old code** | C | Recompiling old C scripts to work with new climate normals | [Repo](https://github.com/MetEireann/past_weather_statements) | ✅ Stable |
