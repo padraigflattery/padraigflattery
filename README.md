@@ -7,7 +7,7 @@ This page tracks my active and archived repos.
 ## 🔧 Active Projects
 | Project | Stack | Summary | Links | Status |
 |---|---|---|---|---|
-|**CMIP6 Ireland**| Python | Takes CMIP6 data for Ireland and combines it with historical observations | [Repo](https://github.com/MetEireann/CMIP6_Ireland) | 🚧 Active |
+|**CMIP6 Ireland**| Python (Flask) | Takes CMIP6 data for Ireland and combines it with historical observations | [Repo](https://github.com/MetEireann/CMIP6_Ireland) | 🚧 Active |
 | **climate-trends-shiny** | R (Shiny) | Interactive anomaly/trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
 | **cron-modernisation** | Python | Replace legacy cron/C/R scripts with orchestrated flows | [Repo](https://github.com/<org>/cron-modernisation) | 🧪 Prototype
 
