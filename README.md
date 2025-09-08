@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pádraig
 
-I work across Python and R mostly on climate projects. 
+I use Python and R for climate projects. 
 
 This page tracks my active and archived repos. 
 
