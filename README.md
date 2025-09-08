@@ -2,7 +2,9 @@
 
 I use Python and R for climate projects. 
 
-This page tracks my active and archived repos. 
+This page tracks my active and "Stable" repos. 
+
+Every day's a school day. 
 
 ## 🔧 Active Projects
 | Project | Stack | Summary | Links | Status |
