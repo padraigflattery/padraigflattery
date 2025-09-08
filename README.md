@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pádraig
+## 👋 Hi, I’m Pádraig
 
 I use Python and R for climate projects.
 
