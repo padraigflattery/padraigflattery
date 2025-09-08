@@ -6,6 +6,8 @@ This page tracks my active and "Stable" repos.
 
 I tend to code using Jupyter Notebooks in Python, and RStudio for R. I'm learning more about Flask and Shiny to make things more interactive. 
 
+I use Jupyter notebooks on the ATOS sometimes and have code stored there too, which should be tracked with git someday. 
+
 
 ## 🔧 Active Projects
 | Project | Stack | Summary | Links | Status |
