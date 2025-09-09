@@ -2,7 +2,7 @@
 
 I use Python and R for climate projects.
 
-This page tracks my active and "Stable" repos. 
+This page tracks my active and "stable" repos. 
 
 I tend to code using Jupyter Notebooks in Python, and RStudio for R. I'm learning more about Flask and Shiny to make things more interactive. 
 
