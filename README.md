@@ -2,12 +2,9 @@
 
 I use Python and R for climate projects.
 
-This page tracks my active and "stable" repos. 
+This page tracks my active and "stable" repos, mostly stored within the [Met Éireann github organisation](https://github.com/MetEireann). 
 
-I tend to code using Jupyter Notebooks in Python, and RStudio for R. I'm learning more about Flask and Shiny to make things more interactive. 
-
-I use [JupyterHub on the ECMWF ATOS](https://jupyterhub.ecmwf.int/) and have code stored there too, which should be tracked with git someday. 
-
+I tend to code using Jupyter Notebooks in Python, and RStudio for R. I'm learning more about Flask and Shiny to make things more interactive.
 
 ## 🔧 Active Projects
 | Project | Stack | Summary | Links | Status |
