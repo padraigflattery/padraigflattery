@@ -14,7 +14,7 @@ I use [JupyterHub on the ECMWF ATOS](https://jupyterhub.ecmwf.int/) and have cod
 |---|---|---|---|---|
 |**CMIP6 Ireland**| Python (Flask) | Takes CMIP6 data for Ireland and combines it with historical observations | [Repo](https://github.com/MetEireann/CMIP6_Ireland) | 🚧 Active |
 |**Gridding Irish Temperatures**| R | Plots Met Éireann's monthly temperature grids & Anomalies | [Repo](https://github.com/MetEireann/gridded_temperatures) | 🚧 Active |
-|**Gridding Irish Rainfall**| R | Plots Met Éireann's monthly temperature grids % Anomalies | [Repo](https://github.com/MetEireann/gridded_rainfall) | 🚧 Active |
+|**Gridding Irish Rainfall**| R | Plots Met Éireann's monthly temperature grids & Anomalies | [Repo](https://github.com/MetEireann/gridded_rainfall) | 🚧 Active |
 |**Temperature Graphs**| Python | Creates interesting graphs of Irish temperatures and also some ERA5 ones too, includes swarmplots, climate pulse recration, monthly barcharts etc.  | [Repo](https://github.com/MetEireann/temperature_graphs) | 🚧 Active |
 |**European Windstorm Catalogue Analysis**| Python | Examining the European Windstorm Atlas to see if there's anything of interest in it | Repo to come | 🔎 Exploratory |
 | **Climatrend-Ireland** | R (Shiny) | Interactive Temperature anomaly & Loess trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
