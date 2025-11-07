@@ -13,6 +13,7 @@ I tend to code using Jupyter Notebooks in Python, and RStudio for R. I'm learnin
 |**Gridding Irish Temperatures**| R | Plots Met Éireann's monthly temperature grids & Anomalies | [Repo](https://github.com/MetEireann/gridded_temperatures) | 🚧 Active |
 |**Gridding Irish Rainfall**| R | Plots Met Éireann's monthly rainfall grids & Anomalies | [Repo](https://github.com/MetEireann/gridded_rainfall) | 🚧 Active |
 |**Temperature Graphs**| Python | Creates interesting graphs of Irish temperatures and also some ERA5 ones too, includes swarmplots, climate pulse recration, monthly barcharts etc.  | [Repo](https://github.com/MetEireann/temperature_graphs) | 🚧 Active |
+|**Wind Annual Summary Table**| R | Creates a table of annual synoptic station wind information for use in annual climate reports | [Repo](https://github.com/MetEireann/wind_annual) | 🚧 Active |
 |**European Windstorm Catalogue Analysis**| Python | Examining the European Windstorm Atlas to see if there's anything of interest in it | Repo to come | 🔎 Exploratory |
 | **Climatrend-Ireland** | R (Shiny) | Interactive Temperature anomaly & Loess trend dashboard for Ireland | [Repo](https://github.com/MetEireann/climatrend_shinyapp) | ✅ Stable
 |**Trend-Ireland**| R | A basic version of the Climatrend Shiny App which provides the code and functions to create pngs using the KNMI Loess method, not interactive. | [Repo](https://github.com/MetEireann/trend_ireland)| ✅ Stable |
